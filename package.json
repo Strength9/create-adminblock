@@ -1,7 +1,7 @@
 {
     "name": "create-adminblock",
     "description": "Quickly create a new admin block",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "main": "./lib/create-adminblock.js",
     "bin": {
         "create-adminblock": "bin/index.js"
