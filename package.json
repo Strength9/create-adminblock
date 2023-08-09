@@ -1,7 +1,7 @@
 {
     "name": "create-adminblock",
     "description": "Quickly create a new admin block",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "./lib/create-adminblock.js",
     "bin": {
         "create-adminblock": "bin/index.js"
@@ -24,7 +24,7 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/Strength9/create-tutorblock.git"
+        "url": "git+ssh://git@github.com/Strength9/create-adminblock.git"
     },
     "dependencies": {
         "prompts": "^2.4.2"
